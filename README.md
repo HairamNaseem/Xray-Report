@@ -1,1 +1,13 @@
 # Xray-Report
+# How to run the code:
+1. download iu_xray dataset and upload it in Drive/MyDrive
+2. clone R2GenCMN and upload it on your google colab file
+3. run the main file in google colab
+
+# Requirements
+1. !pip install rouge_score pycocoevalcap==1.2
+2. !pip install  pycocoevalcap==1.2
+
+# Dataset
+you can download the iu_xray dataset from https://github.com/cuhksz-nlp/R2GenCMN/tree/main?tab=readme-ov-file
+
