@@ -13,3 +13,5 @@
 # Dataset
 you can download the iu_xray dataset from https://github.com/cuhksz-nlp/R2GenCMN
 
+# Architecture 
+![image](https://github.com/user-attachments/assets/bb4dfbb4-0d7f-4abd-9432-1589a145f1aa)
